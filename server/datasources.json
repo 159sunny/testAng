@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "coffeeshop": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "coffeeshop",
+    "password": "q1234",
+    "name": "coffeeshop",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
